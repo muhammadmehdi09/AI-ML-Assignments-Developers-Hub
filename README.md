@@ -1,13 +1,17 @@
 # AI/ML Assignments (Developers Hub)
 
-### Task 1 (Exploring and Visualizing a Simple Dataset)
+### Task 1 (Exploring and Visualizing a Dataset)
 Dataset:- Iris Dataset (Seaborn)<br>
 Results:- The dataset focuses on 4 features which vary for different flowers and species. There are total 150 samples, 50 samples for each type of iris. Petal length and Sepal Length are directly propotional to each other. The dataset is pretty consistent except a few outliers.<br><br>
 
-### Task 2 (Predict Future Stock Prices (Short-Term))
+### Task 2 (Predict Future Stock Prices)
 Dataset:- Google Stocks (yfinance)  
 Model:-  Linear Regression  
 Results:- The dataset contains the features Open, High, Low, Volume and Close, which were used to predict the next day's closing price. The dataset is pretty consistent there are no outliers or extreme changes so the model is strong too, and is almost perfect.<br><br>
+
+### Task 4 (General Health Query Chatbot)
+Model:-  OpenAI GPT 3.5 Turbo<br>
+Results:- The chatbot is very precise and gives short answers. The chatbot contains a danger net, in case a specific keyword is triggered the chatbot recomends the user to consult an expert. The chatbot is meerly for assistance and doesn't provide any priscriptions<br><br>
 
 ### Task 6 (House Price Prediction)
 First Dataset:- House Price Prediction Dataset (Kaggle)(Zafar)<br>
