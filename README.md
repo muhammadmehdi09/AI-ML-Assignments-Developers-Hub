@@ -12,7 +12,7 @@ Results:- The dataset contains the features Open, High, Low, Volume and Close, w
 ### Task 3 (Heart Disease Prediction)
 Dataset:- Heart Disease UCI (Kaggle)<br>
 Model:-  Logistic Regression<br>
-Results:- The dataset includes multiple health related features such as age, cholesterol, resting blood pressure and heart rate which help in determining the presence of heart disease. The model was able to classify the data reasonably well and showed clear patterns between certain features and the target variable. Age and cholesterol had noticeable influence on the prediction. The model is not perfect but performs well overall and gives reliable predictions for most cases.<br><br><br><br>
+Results:- The dataset includes multiple health related features such as age, cholesterol, resting blood pressure and heart rate which help in determining the presence of heart disease. The model was able to classify the data reasonably well and showed clear patterns between certain features and the target variable. Age and cholesterol had noticeable influence on the prediction. The model is not perfect but performs well overall and gives reliable predictions for most cases.<br><br>
 
 ### Task 4 (General Health Query Chatbot)
 Model:-  OpenAI GPT 3.5 Turbo<br>
